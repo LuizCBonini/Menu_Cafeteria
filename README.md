@@ -4,7 +4,18 @@
 
 >Para o auxílio dos clientes da cafeteria em Campinas-SP.
 
-## Desenvolvimento
+## Resolução
 
-### Problema:
-Por conta da pandemia, muitos não gostavam de receber o cardápio físico e a criação de um QRcode para
+Por conta da pandemia, muitos não gostavam de receber o cardápio físico, e a criação de um QRcode foi a solução criada para este problema.
+Com isso, a operação se tornou mais rápida e fluida, e o entendimento mais simples para os garçons.
+
+## Tecnologias utilizadas
+
+• HTML5
+
+• CSS3
+
+• Photoshop
+
+
+>Obrigado pela visita e Let's code!
